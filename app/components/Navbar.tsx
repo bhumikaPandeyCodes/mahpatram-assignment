@@ -7,7 +7,7 @@ import CrossIcon from "../icons/CrossIcon";
 
 
 export default function Navbar(){
-    const [showNav, setShowNav] = useState(false)
+    const [showNav, setShowNav] = useState(true)
 
     return(
         <nav className="flex gap-16 justify-between md:items-center p-10">
