@@ -1,4 +1,3 @@
-import Image from "next/image";
 import HeartIcon from "../icons/HeartIcon";
 import BusinessIcon from "../icons/BusinessIcon";
 import HandshakeIcon from "../icons/HandshakeIcon";
